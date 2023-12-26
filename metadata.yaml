@@ -1,0 +1,36 @@
+_repo: The-right-side-of-the-tracks_72338
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George Luther
+    - Schelling, George L.
+    - Schelling
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+creator:
+  author:
+    agent_name: Teichner, Albert
+    alias: Teichner, Albert R.
+    gutenberg_agent_id: '24789'
+    url: http://www.gutenberg.org/2009/agents/24789
+description: ''
+gutenberg_issued: '2023-12-05'
+identifiers:
+  gutenberg: '72338'
+language: en
+pgterms:marc905: 20231124091410teichner
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The right side of the tracks
+url: http://www.gutenberg.org/ebooks/72338
