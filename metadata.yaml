@@ -10,6 +10,9 @@ contributor:
     birthdate: 1938
     gutenberg_agent_id: '25425'
     url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: archival
+  image_path: 72338-h/images/cover.jpg
 creator:
   author:
     agent_name: Teichner, Albert
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '24789'
     url: http://www.gutenberg.org/2009/agents/24789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72338#The-right-side-of-the-tracks
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72338'
